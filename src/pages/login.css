@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+p{
+    padding: 14px;
+    font-size: 35px;
+}
+
+button{
+    color:black;
+    width: 180px;
+    height: 50px;
+    border-radius: 5px;
+    background-image: linear-gradient(#4affde 0%, #5b9dff 40%, #9f6bff 100%, #ff34d2 100%);
+    box-sizing: 200% 200%;
+    cursor: pointer;
+    
+    
+
+}
